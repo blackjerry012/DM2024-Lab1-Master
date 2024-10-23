@@ -1,0 +1,4 @@
+words:9
+26:9
+needs:9
+getting:10
